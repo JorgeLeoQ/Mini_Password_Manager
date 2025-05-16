@@ -1,0 +1,22 @@
+# Eseguibili
+*.exe
+*.out
+*.o
+*.obj
+mini-password-manager
+main
+
+# File di backup dell'editor
+*~
+*.swp
+
+# File di dati
+*.txt
+data.txt
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
